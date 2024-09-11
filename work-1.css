@@ -1,0 +1,24 @@
+section {
+  /* display: inline; */
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+div {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: burlywood;
+}
+
+nav {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+
+/* 얘는 inline/inline-block 차이부터 확실히 보고 실험 ㄱㄱ  */
+
